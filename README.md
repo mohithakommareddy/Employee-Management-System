@@ -24,6 +24,36 @@ This is a console-based **Employee Management System** developed in C++. It demo
 ## 📂 Project Structure
 EmployeeManagementSystem/
 │
-├── main.cpp          # Main source code file
-├── README.md         # This documentation
+├── emplyoee management system.cpp          # Main source code file
+├── README.md                               # This documentation
+
+---
+
+## 🔧 Prerequisites
+
+- A C++ compiler (like `g++`)
+- Terminal or an IDE (Code::Blocks, VS Code, Dev C++, etc.)
+
+---
+
+## 🚀 How to Compile and Run
+
+### 🖥️ Using Terminal
+
+```bash
+g++ -o EmployeeManagementSystem main.cpp
+./EmployeeManagementSystem
+
+## Output of this file
+
+Employee Management System Menu:
+1. Add Manager
+2. Add Engineer
+3. Add Intern
+4. Display All Employees
+5. Delete Employee by ID
+6. Exit
+Select an option:
+
+
 
